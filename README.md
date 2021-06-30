@@ -3,7 +3,6 @@
 In this project, We will build a pipeline to process real-world, user-supplied images.
 Given an image, the algorithm will predict the most likely locations where the image was taken.
 
-![Sample Output](landmark_project/images/sample_landmark_output.png)
 
 ## Dataset Info
 
